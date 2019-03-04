@@ -35,6 +35,7 @@ int main()
 
 		else if (!strcmp(input, "DELETE"))
 		{
+			delete[] input;
 			char* newName = inputStr();
 			hist.deleteName(newName);
 		}
