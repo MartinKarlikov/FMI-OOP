@@ -46,8 +46,9 @@ int main()
 			hist.add(toAdd);
 		}
 
-			input = inputStr();
-
+		delete[] input;	
+		input = inputStr();
+			
 	}
 
 	std::cout << (hist.getMax()).getNumEncounters() << std::endl;
