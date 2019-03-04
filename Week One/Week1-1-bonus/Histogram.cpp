@@ -193,6 +193,7 @@ void Histogram::deleteName(char * name)
 	if (!exists)
 	{
 		std::cout << "Can't delete non existing element" << std::endl;
+		return;
 	}
 
 	CountedName* tempResizeHolder = new CountedName[size - 1];
