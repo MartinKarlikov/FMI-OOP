@@ -222,7 +222,9 @@ void Histogram::show()
 
 	for (size_t i = 0; i < size; i++)
 	{
-		std::cout << hist[i].getName() << " -  " << hist[i].getNumEncounters() << std::endl;
+		char* tempForDel = hist[i].getName();
+		std::cout << tempForDel << " -  " << hist[i].getNumEncounters() << std::endl;
+		delete[] tempForDel;
 	}
 	
 }
