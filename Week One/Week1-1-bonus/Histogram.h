@@ -1,7 +1,5 @@
 #pragma once
 
-void copyStr(char*& dest,const char  * source);
-
 class CountedName
 {
 
