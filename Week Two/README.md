@@ -9,16 +9,22 @@
 Пример:
 Вход:
 3
+
 5 13
+
 0 Ivanov ab1863 0.3
 1 Marin ad9628 0.1
 30 Petrova aj2764 0.1
 8 Karlov af5673 0.5
 16 Nanov ao3864 0.2
+
 2 27
+
 2 Angelova bh3764 0.1
 4 Lambov bw4928 0.1
+
 3 10
+
 3 Taneva vk9823 0.5
 37 Jivkov vs4900 0.7
 
