@@ -1,0 +1,16 @@
+Petar Petrov
+A2 5.4
+OOP 6
+OKG 3
+*
+Ivan Ivanov
+A2 5
+KMR 4
+UP 6
+*
+Anna Borisova
+A1 6
+G 3
+EAI 3
+*
+
